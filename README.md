@@ -1,4 +1,4 @@
-🎢 Painel de Gestão - Beto Carrero World
+ painel gestao  Beto Carrero World
 Sistema web interativo desenvolvido para a gestão administrativa, controle de estoque, fluxo de vendas e monitoramento de visitantes das atrações do Beto Carrero World, o maior parque temático da América Latina.
 
 🚀 Funcionalidades do Projeto
